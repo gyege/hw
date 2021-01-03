@@ -1,4 +1,4 @@
 # hw
 none
 
-proba proba valami leszarom
+proba proba valami
